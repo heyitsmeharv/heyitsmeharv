@@ -12,7 +12,7 @@ I have since branched out into many different roles. I guess you can say that I'
 In my spare time you can catch me
 - 🇪🇸 Duolingo
 - ♟️ Chess
-- 📝 Writing about technologies which you can find here - [**Blog**](https://www.heyitsmeharv.com/blog).
+- 📝 Writing about technologies which you can find [**here**](https://www.heyitsmeharv.com/blog).
 
 ## 🛠️ Skills
 
