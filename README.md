@@ -10,9 +10,9 @@ I started my professional career as a mere front-end developer since graduating 
 I have since branched out into many different roles. I guess you can say that I've got an inquisitive mindset and an enthusiasm for knowing how things work.
 
 In my spare time you can catch me
-- 🇪🇸 duolingo
-- ♟️ playing chess
-- 📝 writing about technologies which you can find here - [**Blog**](https://www.heyitsmeharv.com/blog).
+- 🇪🇸 Duolingo
+- ♟️ Chess
+- 📝 Writing about technologies which you can find here - [**Blog**](https://www.heyitsmeharv.com/blog).
 
 ## 🛠️ Skills
 
