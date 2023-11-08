@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000px" height="500px">
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
 ## 🚀 About Me
 
