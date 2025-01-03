@@ -6,13 +6,14 @@ My name is Adam, but you can call me Harv.
 
 I'm from Oxford, England 🇬🇧 and currently I'm working at [**Davies-Group**](https://technology.davies-group.com/technology/) 💼
 
-I started my professional career as a mere front-end developer since graduating with a degree in software for games 🕹️👾🎮. 
-I have since branched out into many different roles. I guess you can say that I've got an inquisitive mindset and an enthusiasm for knowing how things work.
+I started my professional career as a front-end developer since graduating with a degree in software for games 🕹️👾🎮. 
+I have since branched out into many different roles, taking on both problem solving, client facing and leadership roles. I would 
+describe myself as being a fun, friendly, enthusiastic problem solver with an inquisitive mindset.
 
 In my spare time you can catch me
 - 🇪🇸 Duolingo
 - ♟️ Chess
-- 📝 Writing about technologies which you can find [**here**](https://www.heyitsmeharv.com/blog).
+- 📝 Writing about technologies which you can find [**here**](https://www.heyitsmeharv.com/).
 
 ## 🛠️ Skills
 
