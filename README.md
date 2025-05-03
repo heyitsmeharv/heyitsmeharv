@@ -42,4 +42,4 @@ In my spare time you can catch me doing:
 
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/heyitsmeharv/)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.heyitsmeharv.com/)
-[![cv](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://heyitsmeharv.s3.eu-west-2.amazonaws.com/AH_CV2.pdf)
+[![cv](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://heyitsmeharv.s3.eu-west-2.amazonaws.com/AH_CV.pdf)
