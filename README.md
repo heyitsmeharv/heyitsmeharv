@@ -10,7 +10,7 @@ I started my professional career as a front-end developer since graduating with 
 I have since branched out into many different roles, taking on both problem solving, client facing and leadership roles. I would 
 describe myself as being a fun, friendly, enthusiastic problem solver with an inquisitive mindset.
 
-In my spare time you can catch me doing:
+In my spare time you can catch me:
 - 🇪🇸 Learning Spanish
 - ♟️ Playing Chess
 - 📝 Blogging [**here**](https://www.heyitsmeharv.com/).
