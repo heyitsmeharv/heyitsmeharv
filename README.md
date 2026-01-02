@@ -11,7 +11,7 @@ I have since branched out into many different roles, taking on both problem solv
 describe myself as being a fun, friendly, enthusiastic problem solver with an inquisitive mindset.
 
 In my spare time you can catch me:
-- 📝 Blogging [**here**](https://www.heyitsmeharv.com/).
+- 📝 Blogging [**here**](https://www.heyitsmeharv.com/blog).
 - ♟️ Hanging my Queen in Chess
 - 🇪🇸  Aprendiendo Castiano
 
