@@ -13,8 +13,7 @@ describe myself as being a fun, friendly, enthusiastic problem solver with an in
 In my spare time you can catch me:
 - 📝 Blogging [**here**](https://www.heyitsmeharv.com/).
 - ♟️ Hanging my Queen in Chess
--  🇪🇸  Aprendiendo Castiano
-
+- 🇪🇸 Aprendiendo Castiano
 
 ## 🛠️ Skills
 
