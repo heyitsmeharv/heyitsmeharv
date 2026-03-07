@@ -6,9 +6,11 @@ My name is Adam, but you can call me Harv.
 
 I'm from Oxford, England 🇬🇧 and I'm currently working at [**Davies-Group**](https://technology.davies-group.com/technology/) 💼
 
-I started my professional career as a front-end developer since graduating with a degree in software for games 🕹️👾🎮. 
-I have since branched out into many different roles, taking on both problem solving, client facing and leadership roles. I would 
-describe myself as being a fun, friendly, enthusiastic problem solver with an inquisitive mindset.
+I started my professional career as a front-end developer after graduating with a degree in software for games 🕹️👾🎮. 
+I have since branched out into various roles, taking on both problem-solving, client-facing, and leadership roles. 
+I would describe myself as a fun, friendly, and enthusiastic problem solver with an inquisitive mindset, 
+who has a proven track record of delivering large-scale commercialised web applications written in React.js 
+hosted on AWS cloud infrastructure.
 
 In my spare time you can catch me:
 -  🇪🇸 Aprendiendo Castiano
